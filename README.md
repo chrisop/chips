@@ -4,4 +4,4 @@ Das wird ein Spiel- und Spass Projekt.
 
 ## Speicherung von Chips
 
-## widergabe von Chips
+## Wiedergabe von Chips
